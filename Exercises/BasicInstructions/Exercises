@@ -9,3 +9,10 @@ x = x - 2 * y
 x = x/2
 
 Ex 3:
+Write a program that finds the greater number given 3 numbers X,Y,Z
+You can use Boolean operators
+
+Ex 4:
+In a company we have 1 shirts that cost X $ when will sell the shirt i will apply a 30% discount if X is > of 100
+Write a program that calcualte the new price of the shirt
+
