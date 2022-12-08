@@ -36,6 +36,8 @@ public class dataTypes {
         char character = 'a';
         System.out.println("Your character: " + character);
 
+
+        // Go in Exercises and do ex1
     }
 
 
