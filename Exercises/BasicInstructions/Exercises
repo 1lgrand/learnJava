@@ -14,7 +14,7 @@ You can use Boolean operators
 
 Ex 4:
 In a company we have 1 shirts that cost X $ when will sell the shirt i will apply a 30% discount if X is > of 100
-Write a program that calcualte the new price of the shirt
+Write a program that calculate the new price of the shirt
 
 Ex 5:
 Taken in input 4 numbers, find the largest, sum and average
@@ -27,3 +27,29 @@ Math.pow(), for powers
 
 Ex 7:
 Write a program that calculates area of two circles, and tell what circle is bigger, and they difference of area
+
+Ex 8:
+Write a program that given a number N, prints the numbers from 0 to N
+
+Ex 9:
+Write a program that given calculates the sum of N numbers until N is 0
+
+Ex 10:
+Write a program that does a multiplication with additions
+
+ex 11:
+Write a program that prints a pattern like this:
+*
+**
+***
+****
+*****
+
+ex 12 FINAL PROJECT:
+given a constant pin of 4 numbers, the user have to put the right pin for continue
+The user have infinite attempts, after the login, the user can choose 3 option:
+- <1> Calculate area of Circle
+- <2> Calculate area of Triangle
+- <0> Quit program
+
+While is not 0, the program have to continue
