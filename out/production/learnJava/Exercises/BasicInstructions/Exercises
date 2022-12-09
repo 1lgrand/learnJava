@@ -16,3 +16,14 @@ Ex 4:
 In a company we have 1 shirts that cost X $ when will sell the shirt i will apply a 30% discount if X is > of 100
 Write a program that calcualte the new price of the shirt
 
+Ex 5:
+Taken in input 4 numbers, find the largest, sum and average
+
+Ex 6:
+Given a triangle, Cathetes given in input, find the hypotenuse.
+Note: For power and square root use java.Math.*
+Math.sqrt(), for square root
+Math.pow(), for powers
+
+Ex 7:
+Write a program that calculates area of two circles, and tell what circle is bigger, and they difference of area

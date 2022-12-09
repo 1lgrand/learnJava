@@ -25,3 +25,5 @@ Note: For power and square root use java.Math.*
 Math.sqrt(), for square root
 Math.pow(), for powers
 
+Ex 7:
+Write a program that calculates area of two circles, and tell what circle is bigger, and they difference of area
